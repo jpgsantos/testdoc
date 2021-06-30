@@ -1,5 +1,3 @@
-Test for release 1.0 re-release
-
 # Word count example
 
 These programs will count words in a given text, plot a bar chart of the 10
