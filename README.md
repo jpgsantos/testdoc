@@ -1,4 +1,4 @@
-
+Test for release 1.0 re-release
 
 # Word count example
 
